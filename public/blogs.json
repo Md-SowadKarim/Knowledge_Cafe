@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/kMN2gkT/1.jpg",
+    "title": "The Mystery of Moonlight Manor",
+    "author": "Jane Smith",
+    "author_image": "https://i.ibb.co/hDYKvkM/boy1.png",
+    "posted_date": "September 15, 2023",
+    "reading_time": 45
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/Fbkkb3y/2.png",
+    "title": "A Journey Through Time",
+    "author": "John Doe",
+    "author_image": "https://i.ibb.co/hDYKvkM/boy1.png",
+    "posted_date": "September 14, 2023",
+    "reading_time": 30
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/MCD8Wst/4.jpg",
+    "title": "The Enchanted Forest",
+    "author": "Emily Johnson",
+    "author_image": "https://i.ibb.co/hDYKvkM/boy1.png",
+    "posted_date": "September 13, 2023",
+    "reading_time": 60
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/jDNkWj8/3.png",
+    "title": "Secrets of the Lost City",
+    "author": "David Williams",
+    "author_image": "https://i.ibb.co/hDYKvkM/boy1.png",
+    "posted_date": "September 12, 2023",
+    "reading_time": 75
+  }
+]
